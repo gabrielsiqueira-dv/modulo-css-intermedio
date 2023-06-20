@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'help';
+    src: url(./fonts/HelpMe.ttf);
+
+}
+@font-face {
+    font-family: 'melted';
+    src: url(./fonts/Melted\ Monster.ttf);
+}
+.ajuda{
+    font-family: 'help',Helvetica, sans-serif;
+    font-size: 50px;
+}
+.texto-informativo{
+    font-family: 'melted', Helvetica, sans-serif;
+    font-size: 50px;
+}
